@@ -23,22 +23,22 @@
 
 Примеры правильных глаголов:
 
-- love - любить
-- live - жить
-- work - работать
-- open - открыть
-- close - закрыть
-- start - начинать
-- finish - заканчивать
+- *love* - любить
+- *live* - жить
+- *work* - работать
+- *open* - открыть
+- *close* - закрыть
+- *start* - начинать
+- *finish* - заканчивать
 
 Примеры неправильных глаголов (в скобках приведены их формы в прошедшем времени):
 
-- see (saw) - видеть
-- come (came) - приходить
-- go (went) - идти
-- know (knew) - знать
-- think (thought) - думать
-- fly (flew) - летать
+- *see (saw)* - видеть
+- *come (came)* - приходить
+- *go (went)* - идти
+- *know (knew)* - знать
+- *think (thought)* - думать
+- *fly (flew)* - летать
 
 ## Базовые конструкции
 
@@ -47,12 +47,12 @@
 
 ### Местоимения
 
-- I - я
-- You - ты / вы
-- We - мы
-- They - они
-- He - он
-- She - она
+- *I* - я
+- *You* - ты / вы
+- *We* - мы
+- *They* - они
+- *He* - он
+- *She* - она
 
 Условно их можно разбить на 2 группы - I, you, we, they и he, she, т.к. образование конструкции с использованием
 настоящего времени для них отличается.
@@ -63,17 +63,17 @@
 
 I, you, we, they + глагол:
 
-- I love - я люблю
-- You love - ты любишь / вы любите
-- We love - мы любим
-- They love - они любят
+- *I love* - я люблю
+- *You love* - ты любишь / вы любите
+- *We love* - мы любим
+- *They love* - они любят
 
 He, she + глагол + s (es):
 
-- He loves - он любит
-- She loves - она любит
-- He goes - он ходит
-- She goes - она ходит
+- *He loves* - он любит
+- *She loves* - она любит
+- *He goes* - он ходит
+- *She goes* - она ходит
 
 > В английском в основном обращаются на "Вы". В классическом русском понимании "ты" используется лишь при обращении к
 > Богу (в молитвах, Библии). Для этого есть специальное слово `T/zau`, но в силу его специфичности даже не все
@@ -83,32 +83,32 @@ He, she + глагол + s (es):
 
 Для правильных глаголов - местоимение + глагол + d (ed):
 
-- I loved - я любил
-- You loved - ты любил / вы любили
-- We loved - мы любили
-- They loved - они любили
-- He loved - он любил
-- She loved - она любила
+- *I loved* - я любил
+- *You loved* - ты любил / вы любили
+- *We loved* - мы любили
+- *They loved* - они любили
+- *He loved* - он любил
+- *She loved* - она любила
 
 Для неправильных глаголов используется специальная форма:
 
-- I saw - я видел
-- You saw - ты видел / Вы видели
-- We saw - мы видели
-- They saw - они видели
-- He saw - он видел
-- She saw - она видела
+- *I saw* - я видел
+- *You saw* - ты видел / Вы видели
+- *We saw* - мы видели
+- *They saw* - они видели
+- *He saw* - он видел
+- *She saw* - она видела
 
 #### Утверждение - будущее
 
 Местоимение + will + глагол:
 
-- I will love - я буду любить / я полюблю
-- You will love - ты полюбишь
-- We will love - мы полюбим
-- They will love - они полюбят
-- He will love - он полюбит
-- She will love - она полюбит
+- *I will love* - я буду любить / я полюблю
+- *You will love* - ты полюбишь
+- *We will love* - мы полюбим
+- *They will love* - они полюбят
+- *He will love* - он полюбит
+- *She will love* - она полюбит
 
 > Форма `shall` в разговорном языке на данный момент не используется (отменили). Применяется лишь в юридической и
 > канцелярской сфере.
@@ -129,37 +129,37 @@ He, she + глагол + s (es):
 
 I, you, we, they + do not (don't) + глагол:
 
-- I don't love - я не люблю
-- You don't love - ты не любишь / вы не любите
-- We don't love - мы не любим
-- They don't love - они не любят
+- *I don't love* - я не люблю
+- *You don't love* - ты не любишь / вы не любите
+- *We don't love* - мы не любим
+- *They don't love* - они не любят
 
 He, she + does not (doesn't) + глагол:
 
-- He doesn't love - он не любит
-- She doesn't love - она не любит
+- *He doesn't love* - он не любит
+- *She doesn't love* - она не любит
 
 #### Отрицание - прошлое
 
 Местоимение + did not (didn't) + глагол:
 
-- I didn't love - я не любил
-- You didn't love - ты не любил / вы не любили
-- We didn't love - мы не любили
-- They didn't love - они не любили
-- He didn't love - он не любил
-- She didn't love - она не любила
+- *I didn't love* - я не любил
+- *You didn't love* - ты не любил / вы не любили
+- *We didn't love* - мы не любили
+- *They didn't love* - они не любили
+- *He didn't love* - он не любил
+- *She didn't love* - она не любила
 
 ### Отрицание - будущее
 
 Местоимение + will not (won't) + глагол:
 
-- I will not love - я не буду любить / я не полюблю
-- You will not love - ты не полюбишь
-- We will not love - мы не полюбим
-- They will not love - мы не полюбим
-- He will not love - он не полюбит
-- She will not love - она не полюбит
+- *I will not love* - я не буду любить / я не полюблю
+- *You will not love* - ты не полюбишь
+- *We will not love* - мы не полюбим
+- *They will not love* - мы не полюбим
+- *He will not love* - он не полюбит
+- *She will not love* - она не полюбит
 
 ### Вопрос
 
@@ -167,34 +167,34 @@ He, she + does not (doesn't) + глагол:
 
 Do + I, you, we, they + глагол?:
 
-- Do I love? - люблю ли я?
-- Do you love? - любишь ли ты? / любите ли вы?
-- Do we love? - любим ли мы?
-- Do they love? - любят ли они?
+- *Do I love?* - люблю ли я?
+- *Do you love?* - любишь ли ты? / любите ли вы?
+- *Do we love?* - любим ли мы?
+- *Do they love?* - любят ли они?
 
 Does + he, she + глагол?:
 
-- Does he love? - любит ли он?
-- Does she love? - любит ли она?
+- *Does he love?* - любит ли он?
+- *Does she love?* - любит ли она?
 
 #### Вопрос - прошлое
 
 Did + местоимение + глагол?:
 
-- Did I love? - любил ли я?
-- Did you love? - любил ли ты / любили ли вы?
-- Did we love? - любили ли мы?
-- Did they love? - любили ли они?
-- Did he love? - любил ли он?
-- Did she love? - любила ли она?
+- *Did I love?* - любил ли я?
+- *Did you love?* - любил ли ты / любили ли вы?
+- *Did we love?* - любили ли мы?
+- *Did they love?* - любили ли они?
+- *Did he love?* - любил ли он?
+- *Did she love?* - любила ли она?
 
 ### Вопрос - будущее
 
 Will + местоимение + глагол?
 
-- Will I love? - полюблю ли я?
-- Will you love? - полюбишь ли ты?
-- Will we love? - полюбим ли мы?
-- Will they love? - полюбят ли они?
-- Will he love? - полюбит ли он?
-- Will she love? - полюбит ли она?
+- *Will I love?* - полюблю ли я?
+- *Will you love?* - полюбишь ли ты?
+- *Will we love?* - полюбим ли мы?
+- *Will they love?* - полюбят ли они?
+- *Will he love?* - полюбит ли он?
+- *Will she love?* - полюбит ли она?
