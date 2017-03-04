@@ -17,17 +17,17 @@
 
 Примеры:
 
-- **revolution** - революция
-- **information** - информация
-- **nation** - нация
-- **innovation** - инновация
-- **modernization** - модернизация
-- **provocation** - провокация
-- **meditation** - медитация
-- **stagnation** - стагнация
-- **computerization** - компьютеризация
-- **profession** - профессия
-- **automatization** - автоматизация (стоит отметить, что для данного слова более распространа укороченная форма -
+- *revolution* - революция
+- *information* - информация
+- *nation* - нация
+- *innovation* - инновация
+- *modernization* - модернизация
+- *provocation* - провокация
+- *meditation* - медитация
+- *stagnation* - стагнация
+- *computerization* - компьютеризация
+- *profession* - профессия
+- *automatization* - автоматизация (стоит отметить, что для данного слова более распространа укороченная форма -
 automation).
 
 > Некоторые слова, оканчивающиеся на `sation`, например, organi**s**ation, имеют вторую вариацию с буквой `z` вместо
