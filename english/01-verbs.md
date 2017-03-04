@@ -123,23 +123,25 @@ He, she + глагол + s (es):
 
 ### Отрицание
 
+В скобках указаны сокращенные формы добавляемых вспомогательных слов.
+
 #### Отрицание - настоящее
 
-I, you, we, they + don't + глагол:
+I, you, we, they + do not (don't) + глагол:
 
 - I don't love - я не люблю
 - You don't love - ты не любишь / вы не любите
 - We don't love - мы не любим
 - They don't love - они не любят
 
-He, she + doesn't + глагол:
+He, she + does not (doesn't) + глагол:
 
 - He doesn't love - он не любит
 - She doesn't love - она не любит
 
 #### Отрицание - прошлое
 
-Местоимение + didn't + глагол:
+Местоимение + did not (didn't) + глагол:
 
 - I didn't love - я не любил
 - You didn't love - ты не любил / вы не любили
@@ -150,7 +152,7 @@ He, she + doesn't + глагол:
 
 ### Отрицание - будущее
 
-Местоимение + will not + глагол:
+Местоимение + will not (won't) + глагол:
 
 - I will not love - я не буду любить / я не полюблю
 - You will not love - ты не полюбишь
